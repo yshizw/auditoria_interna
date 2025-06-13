@@ -139,11 +139,11 @@ ____
 
 ## Conclusão
 
-Desta forma, concluo meu projeto pessoal simulando uma auditoria interna de segurança da informação. Procurei utilizar o material base o mínimo possível, reformulando o material base original fornecido pela Google, buscando uma absorção mais legítima e autêntica do conteúdo.  
+Desta forma, concluo meu projeto pessoal simulando uma auditoria interna de segurança da informação. Procurei utilizar o material base o mínimo possível, reformulando o material original e cenário fornecido pela Google, buscando uma absorção mais legítima e autêntica do conteúdo.  
 
 *Lições aprendidas e desafios enfrentados:*
 
-Acredito que a parte mais desafiadora foi a avaliação das prioridades dos controles a serem implementados. Algumas medidas são claramente urgentes, mas foi necessário um esforço maior para identificar com precisão aquelas que realmente demandam atenção imediata, ao invés de simplesmente marcar prioridade alta a todas.
+Acredito que a parte mais desafiadora foi a avaliação das prioridades dos controles a serem implementados. Algumas medidas são claramente urgentes, mas foi necessário um esforço maior para identificar com precisão aquelas que realmente demandam atenção imediata, ao invés de simplesmente marcar prioridade alta em todas.
 
 Esta simulação teve como objetivo aprofundar meus conhecimentos sobre os tipos de controle, a Lei Geral de Proteção de Dados (LGPD), os princípios do NIST, entre outros temas relacionados à segurança da informação, além de proporcionar um insight prático na estruturação de uma auditoria interna.
 
